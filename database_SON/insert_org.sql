@@ -1,0 +1,10 @@
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (56, '+38194839303', 'işlemci', 'intel',1000 ,1 , 24);
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (57, '+39103047382', 'buzdolabı', 'arçelik',158 ,2, 5);
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (58, '+28930304293', 'dondurma', 'algida',378 , 3, 10);
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (59, '+05478981208', 'Giyim', 'Pull And Bear',9 ,4 ,43 );
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (60, '+05472120809', 'İçecek', 'Coca Cola', 8,5 ,45 );
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (84, '+05479098282', 'Yazılım', 'HS Yazılım', 6, 6, 44);
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (85, '+90598557785', 'Boya', 'Kızıl Boyacılık A.Ş.', 84, 7, 16);
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (86, '+90498612354', 'Danışmalık', 'Personal Danışmanlık', 19, 8, 67);
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (87, '+12289547651', 'Yazılım', 'Brake Software', 38, 9, 71);
+insert into  Organisation (acc_id, phone_no, sector, org_name, employee_count, work_address_id, org_owner_id) values (88, '+76451289753', 'Yazılım', 'Matrix Software', 12, 10, 74);

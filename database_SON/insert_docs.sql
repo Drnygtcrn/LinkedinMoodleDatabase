@@ -1,0 +1,15 @@
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Ders-Kitabı', 7, 1, true );
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Final-Çözümleri', 7 , 1, false);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Vize-Çözümleri', 7 , 1, true );
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Ders-Kitabı', 41, 2, true);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Final-Çözümleri', 41, 2, false);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Vize-Çözümleri', 41, 2, true);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('DBMS-chapter1',53 ,3 ,true );
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('DBMS-chapter2',53 ,3 ,true );
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('DBMS-chapter3',53 ,3 ,true );
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Introduction to History', 52, 4, true);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('World War 2', 52, 4, true);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Adders', 8, 5, true);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Ödev dokümanı', 8, 5, true);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('Midterm Results', 8, 5, true);
+insert into Document (doc_name, uploader_id, course_id, visibility) values ('CPU Architecture', 8, 5, false);

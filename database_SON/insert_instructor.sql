@@ -1,0 +1,10 @@
+insert into Instructor(acc_id,title,start_date) values (41,'prof.',2005);
+insert into Instructor(acc_id,title,start_date) values (42,'dr.',2004);
+insert into Instructor(acc_id,title,start_date) values (52,'asc. prof.',2018);
+insert into Instructor(acc_id,title,start_date) values (53,'asc. prof.',2000);
+insert into Instructor(acc_id,title,start_date) values (54,'dr.',1995);
+insert into Instructor(acc_id,title,start_date) values (72,'dr.',2014);
+insert into Instructor(acc_id,title,start_date) values (7,'prof.',2001);
+insert into Instructor(acc_id,title,start_date) values (8,'asc. prof.',2012);
+insert into Instructor(acc_id,title,start_date) values (32,'dr.',1999);
+insert into Instructor(acc_id,title,start_date) values (65,'prof.',1998);

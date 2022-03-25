@@ -1,0 +1,15 @@
+insert into GroupManagers (manager_id, group_id) values (17, 1);
+insert into GroupManagers (manager_id, group_id) values (71, 1);
+insert into GroupManagers (manager_id, group_id) values (34, 2);
+insert into GroupManagers (manager_id, group_id) values (36, 2);
+insert into GroupManagers (manager_id, group_id) values (40, 2);
+insert into GroupManagers (manager_id, group_id) values (54,5);
+insert into GroupManagers (manager_id, group_id) values (53,5 );
+insert into GroupManagers (manager_id, group_id) values (43,6 );
+insert into GroupManagers (manager_id, group_id) values (41, 6);
+insert into GroupManagers (manager_id, group_id) values (33,6);
+insert into GroupManagers (manager_id, group_id) values (99, 3);
+insert into GroupManagers (manager_id, group_id) values (2, 4);
+insert into GroupManagers (manager_id, group_id) values (100, 3);
+insert into GroupManagers (manager_id, group_id) values (15, 4);
+insert into GroupManagers (manager_id, group_id) values (23, 4);

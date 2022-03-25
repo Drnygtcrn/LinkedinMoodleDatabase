@@ -1,0 +1,10 @@
+insert into Comments(profile_id, post_id,text) values (5, 2, 'Bu sözüne tüm kalbimle katılıyorum dostum!');
+insert into Comments(profile_id, post_id,text) values (14, 15, 'Harika!');
+insert into Comments(profile_id, post_id,text) values (15, 16, 'Muhteşem!');
+insert into Comments(profile_id, post_id,text) values (4, 21, 'Faydalı.');
+insert into Comments(profile_id, post_id,text) values (33, 24, 'Keep up!');
+insert into Comments(profile_id, post_id,text) values (44, 28, 'Good Post.');
+insert into Comments(profile_id, post_id,text) values (65, 29, 'Wow!');
+insert into Comments(profile_id, post_id,text) values (87, 32, 'I agree with that!');
+insert into Comments(profile_id, post_id,text) values (92, 33, 'Katılıyorum.');
+insert into Comments(profile_id, post_id,text) values (94, 45, 'Katılmıyorum!');

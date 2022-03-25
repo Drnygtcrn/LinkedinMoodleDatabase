@@ -1,0 +1,10 @@
+insert into WorkAddress(country,state,full_address) values('USA','Illinois','1708 Primrose Ave Granite City, Illinois(IL), 62040');
+insert into WorkAddress(country,state,full_address) values('USA','Florida','7879 Grande Pine Rd Bokeelia, Florida(FL), 33922');
+insert into WorkAddress(country,state,full_address) values('USA','Florida','1880 NE 128th Pl Branford, Florida(FL), 32008');
+insert into WorkAddress(country,state,full_address) values('USA','Indiana','3006 Trappers Cv Huntington, Indiana(IN), 46750');
+insert into WorkAddress(country,state,full_address) values('USA','North Dakota','Langdon, North Dakota(ND), 58249');
+insert into WorkAddress(country,state,full_address) values('TURKEY','Istanbul','Küçükyalı, Maltepe, Istanbul, 35321');
+insert into WorkAddress(country,state,full_address) values('TURKEY','Ankara','Kavaklıdere, Çankaya,  Ankara, 06313');
+insert into WorkAddress(country,state,full_address) values('FRANCE','Pays de la Loire','36 rue GoyAnkaraMans, Pays de la Loire, 72100');
+insert into WorkAddress(country,state,full_address) values('FRANCE','Thonon-les-bains','7 rue du Fossé des Tanneurs, Thonon-les-bains, Rhône-Alpes, 74200');
+insert into WorkAddress(country,state,full_address) values('ITALY','Perugia','Via Tasso 89, Via Tasso 89, Perugia, 06085');
